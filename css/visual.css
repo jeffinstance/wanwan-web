@@ -114,7 +114,7 @@ html, body, form{overflow-y:auto;height:100%;}
 .visualSssf_left a{width:32%;color:#fff;display:inline-block;margin-bottom:10px;cursor:pointer;}
 .visualSssf_left a.active{color:#01f0ff;}
 .visualSssf_right{width:60%;height:100%;float:left;}
-.visualSssf_right .visualSssf_right_box{width:33%;float:left;height:100%;}
+.visualSssf_right .visualSssf_right_box{width:25%;float:left;height:100%;}
 
 .visualSfzsfl{position:relative;}
 .visualSfzsfl .visual_chart{opacity:0.6}

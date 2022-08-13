@@ -40,11 +40,11 @@ var myData = (function test() {
             barWidth: data.barWidth || 12,
             label: {
                 normal: {
-                    show: false,
+                    show: true,
                     formatter: '{c}' + symbol,
                     position: 'top',
                     textStyle: {
-                        color: '#000',
+                        color: '#FFFFFF',
                         fontStyle: 'normal',
                         fontFamily: '微软雅黑',
                         textAlign: 'left',
